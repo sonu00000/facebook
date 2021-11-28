@@ -1,3 +1,1 @@
-Hello, this line is update now...
-Hello, This file contains the deployment scrip
-
+Hello, This file contains the deployment script
